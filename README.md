@@ -20,3 +20,5 @@ Machine learning (ML) applications are revolutionizing the healthcare industry b
 - **Prediction Model**: Developed a machine learning model capable of predicting heart disease.
 - **Graphical Interface**: Created a user-friendly graphical interface for the system to interact with the model.
 
+
+![Heart Disease Prediction using Machine Learning](https://github.com/mzkriam/heart-disease/assets/73972415/dd642507-30ab-449d-a552-761738a053f5)
