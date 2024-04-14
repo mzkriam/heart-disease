@@ -1,4 +1,4 @@
-# Machine Learning in Healthcare: Heart Disease Prediction
+# Machine Learning (ML) in Healthcare: Heart Disease Prediction
 
 ## Overview
 Machine learning (ML) applications are revolutionizing the healthcare industry by identifying patterns in large datasets, which is crucial for diagnosing risks or diseases. This project focuses on the application of ML to predict heart disease.
